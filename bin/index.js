@@ -5,7 +5,6 @@ const fs = require("fs");
 //Time Complexity: O(N * log(N))
     //Reading Input Data: Reading data line by line has a time complexity of O(N), where N is the number of lines in the input data.
     //Parsing and Sorting: Parsing and sorting the data requires O(N * log(N)) time complexity, where N is the number of lines.
-
 //Memory Complexity: O(N)
     //Reading Input Data: The program reads data line by line and stores it temporarily in memory. The memory usage for this part is O(N), where N is the number of lines.
     //Parsing and Sorting: Storing the value-ID pairs in memory and sorting them requires additional memory. The memory usage for this part is also O(N), where N is the number of lines.
