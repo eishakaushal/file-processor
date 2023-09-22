@@ -1,0 +1,25 @@
+{
+  "name": "filereader",
+  "version": "1.0.0",
+  "description": "Challenge",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "npx jest ./bin/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "filereader"
+  },
+  "keywords": [],
+  "author": "eishakaushal",
+  "license": "ISC",
+  "bin": {
+    "run": "./bin/index.js"
+  },
+  "dependencies": {
+    "yargs": "^17.7.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
