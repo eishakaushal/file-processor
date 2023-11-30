@@ -1,6 +1,6 @@
-# Challenge
+# File Processor
 
-This is a Node.js based solution to the challenge, which reads a list of values and IDs from a file or stdin, processes the data, and outputs the IDs associated with the X-largest values.
+A Node.js program which reads a list of values and IDs from a file or stdin, processes the data, and outputs the IDs associated with the X-largest values.
 
 ## Prerequisites
 
